@@ -4,3 +4,5 @@ Committing without workflow rule
 Commit with workflow rule
 
 commit again
+
+commit
